@@ -1,0 +1,33 @@
+
+{
+  "name": "eslint-config-squint-style",
+  "version": "1.0.0",
+  "description": "Shareable ESLint config for the Squint style guide",
+  "license": "",
+  "repository": "RyanWarner/eslint-config-squint-style",
+  "author": "Ryan Warner",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "ryan warner",
+    "squint",
+    "code",
+    "quality",
+    "style",
+    "lint",
+    "linter",
+    "jscs",
+    "eslint",
+    "eslintconfig",
+    "code style",
+    "strict",
+    "hint"
+  ],
+  "devDependencies": {
+    "eslint": "^2.13.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=2.13.0"
+  }
+}
